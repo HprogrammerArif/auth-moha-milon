@@ -1,10 +1,8 @@
-// import { useContext } from "react";
-// import { AuthContex } from "../providers/AuthProvider";
+
 
 const Home = () => {
 
-  // const authInfo = useContext(AuthContex)
-  // console.log(authInfo);
+ 
 
   return (
     <div>
